@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.head{
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+}
+.card{
+    box-shadow: 4px 8px 8px 4px yellow;
+    max-width: 450px;
+    margin: auto;
+    padding: auto;
+    font-family: arial;
+    text-align: center;
+    color: black;
+    border: aliceblue;
+    background-color: white;
+}
+.title{
+    color: grey;
+    font-size: 30px;
+}
+a{
+    color: black;
+    background-color: white;
+    font-size: larger;
+}
